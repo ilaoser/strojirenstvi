@@ -1,0 +1,45 @@
+Hydraulické systémy. (Třída 4M1 STS-BT)
+
+
+1.Jaký je účel tlumící trysky  v hydraulickém agregátu ?  (1 Point)
+snizeni prutoku kapaliny, snizuje tlak za tryskou
+
+2.Jaký účel má redukční ventil (dva důvody) ?  (2 Points)
+snizeni tlaku v  obvodu, prutoku kapaliny
+
+3.Popiš bez použití obrázku účel a princip jednostupňového (přímo řízeného) pojistného ventilu.  (4 Points)
+odvod kapaliny do nadrze pri vysokem tlaku
+
+4.Vyjmenuj všechny čtyři typy filtrů v hydraulickém agregátu a u každého stručně popiš jeho účel.  (4 Points)
+saci - cisti pred vstupem do motoru, tlakovy, mobilni - cirteni oleje v systemu, odpadni - cisti od velkych castic
+
+5.Jaký je obecně důvod pro použití dvoustupňových (přímo řízených ) ventilů (pojistných či redukčních)?  (2 Points)
+-
+
+6.jaký je účel a jaké máme dva typy ohřívačů oleje hydraulickém agregátu ?  (2 Points)
+zratovy ohrev - vyuziva tlak k ohrevu
+tepelne teleso - vyuziva elec. energii
+
+7.Jaký je důvod použití rozváděčů ventilových?  (2 Points)
+vysoke tlaky
+
+8.Vyjmenuj všechny 4  typy  jednosměrných ventilů a každého uveď stručnou charakteristiku jejich vlastností.  (4 Points)
+kuzeloby, talirovy, kulickovy
+
+9.Jaký má účel termostat v hydraulickém agregátu ?  (1 Point)
+posila kapalinu zpatky do nadrze, pokud ma nizkou teplotu, a ohriva ho
+
+10.K čemu jsou mělké zápichy na obvodu šoupátka )pístku)  šoupátkového rozvaděče?  (2 Points)
+aby kapalina rozvedla tlak rovnomerne
+
+11.Jaký je účel jednosměrného (zpětného) ventilu v hydraulickém agregátu ?  (2 Points)
+zabranuje toku kapaliny v jednom smeru
+
+12.Vyjmenuj všechny způsoby ovládání šoupátkových rozvaděčů.  (3 Points)
+sterbinovy, jehlovy
+
+13.Jak těsní šoupátko (pístek) ve válci šoupátkového rozvaděče ?  (1 Point)
+pomoci presne obrobeneho prumeru diry a soupatha
+
+14.Vyjmenuj jaké úkoly ( 6) plní hydraulický akumulátor v  hydraulickém agregátu.Immersive Reader (6 Points)
+udrzovat konstantni tlak v systemu za motorem
